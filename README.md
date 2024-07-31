@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm a motivated and passionate Final-year Engineering student (Unitec New Zealnd) specializing in Computer Science with hands-on experience in Software and Data Engineering. My coursework and hands-on projects in programming languages, web technologies, data engineering, and cloud computing have prepared me to contribute effectively to dynamic development teams. I am keen to apply my passion for technology and problem-solving in a professional setting, aiming to drive innovation and deliver high-quality solutions.
+From a young age, I have been enthusiastic about computers and often wondered how software works, aspiring to create my own. My curiosity led me to discover programming languages, which ignited my motivation for self-study. With the assistance of a developer, I began learning and practicing C programming. Over time, I realized that software development was my true calling, prompting me to enroll in the Bachelor of Computing Systems program at Unitec, where I am currently in my final year.
+
+My passion extends beyond software development to encompass Data and AI. Recently, I have earned certifications as an Azure Data Engineer and an AI Engineer Associate. Additionally, I dedicate my Fridays to volunteering as a Service Desk Analyst for a local community organization, gaining practical experience and contributing to my community.
 
 ## Language and Tools
 <img align = "left" width = "50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
