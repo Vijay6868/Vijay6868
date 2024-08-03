@@ -26,6 +26,8 @@ My passion extends beyond software development to encompass Data and AI. Recentl
 
 
 <img img align = "left" width = "50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img img align = "left" width = "50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+          
 
 <br></br>
 <br></br>
