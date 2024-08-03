@@ -26,9 +26,13 @@ My passion extends beyond software development to encompass Data and AI. Recentl
 
 
 <img img align = "left" width = "50px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-          
-          
-          
+
+<br></br>
+#
+
+## Certifications
+ - Azure AI Engineer Associate
+ - Azure Data Engineer Associate
 <!--
 **Vijay6868/Vijay6868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
