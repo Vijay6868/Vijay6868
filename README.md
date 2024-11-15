@@ -23,3 +23,11 @@ My passion extends beyond software development to encompass Data and AI. Recentl
 ## Certifications
 - Azure AI Engineer Associate
 - Azure Data Engineer Associate
+
+## Frameworks
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="Python" width="50px" style="padding-right:10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Java" width="50px" style="padding-right:10px;" />
+    
+</div>
