@@ -18,6 +18,7 @@ My passion extends beyond software development to encompass Data and AI. Recentl
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="50px" style="padding-right:10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="50px" style="padding-right:10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50px" style="padding-right:10px;" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="Java" width="50px" style="padding-right:10px;" />
 </div>
 
 ## Certifications
