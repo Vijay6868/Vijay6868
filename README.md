@@ -32,3 +32,7 @@ My passion extends beyond software development to encompass Data and AI. Recentl
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Java" width="50px" style="padding-right:10px;" />
     
 </div>
+
+## Awards
+- Values Award (Walsh Trust)
+- Staff Excellence Award (IHC)
